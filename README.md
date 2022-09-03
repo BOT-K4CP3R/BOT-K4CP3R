@@ -1,15 +1,8 @@
 <h1 align="center">👋, Jestem Kacper</h1>
-<h3 align="center">Uczę się programowania</h3>
 
-- 🔭 Obecnie pracuję nad **Jeszcze niczym**
-
-- 🌱 Obecnie się uczę **JavaScript**
-
-- 👨‍💻 Wszystkie moje projekty są dostępne na [https://bot-k4cp3r.xyz/portfolio](https://bot-k4cp3r.xyz/portfolio)
+- 🔭 Obecnie pracuję nad **GroobBot**
 
 - 📫 Kontakt discord **[BOT] K4CP3R#0001**
-
-- ⚡ Fun fact **Czasem myślę**
 
 <p align="left">
 </p>
