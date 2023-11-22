@@ -1,8 +1,6 @@
 <h1 align="center">👋, Jestem Kacper</h1>
 
-- 🔭 Obecnie pracuję nad **Niczym**
-
-- 📫 Kontakt discord **botk4cp3r**
+- 📫 Kontakt discord **@botk4cp3r**
 
 <p align="left">
 </p>
